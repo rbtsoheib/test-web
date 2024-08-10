@@ -4,9 +4,10 @@
     display: block;
     height: 500px;
     width: 400px;
-    background-color: blueviolet;
+    background-color: rgb(192, 190, 194);
     margin-left: 870px;
     border-radius: 40px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.05) !important ;
 
 }
 
