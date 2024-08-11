@@ -8,89 +8,89 @@
 // trying the switch statement
 
 
- var date = 8 ;
+//  var date = 8 ;
 
- switch (date) {
+//  switch (date) {
 
-    case 1:
+//     case 1:
     
-            document.write(" <h1> today is monday </h1> <br> ");
-            document.write(" <h2> welcome </h2> ")
+//             document.write(" <h1> today is monday </h1> <br> ");
+//             document.write(" <h2> welcome </h2> ")
 
-        break;
+//         break;
 
-        case 2:
+//         case 2:
 
-            document.write("today is tuesday");
+//             document.write("today is tuesday");
         
-        break; 
+//         break; 
 
-        case 3:
+//         case 3:
 
-            document.write("today is wedensday");
+//             document.write("today is wedensday");
         
-        break;    
+//         break;    
 
-        case 4:
+//         case 4:
 
 //             document.write("today is thursday");
 
 //         break;    
         
-        case 5:
+//         case 5:
             
-            document.write("today is friday");
+//             document.write("today is friday");
         
-        break;    
+//         break;    
         
-        case 6:
+//         case 6:
 
-            document.write("today is saturday");
+//             document.write("today is saturday");
         
-        break;
+//         break;
  
-    default:
+//     default:
 
-        document.write(" <h3> please enter the right number </h3> ");
+//         document.write(" <h3> please enter the right number </h3> ");
 
-        break;
- }
+//         break;
+//  }
 
-    var sport = 7 ;
+//     var sport = 7 ;
 
-    switch (sport) {
+//     switch (sport) {
 
-        case 1:
+//         case 1:
             
-                document.write(" <h3> ohhhh you like basketball, intresting ! </h3> ");
+//                 document.write(" <h3> ohhhh you like basketball, intresting ! </h3> ");
 
-            break;
+//             break;
 
-            case 2:
+//             case 2:
 
-                document.write("ohhhh you like football, intresting !");
+//                 document.write("ohhhh you like football, intresting !");
             
-            break;
+//             break;
 
-            case 3:
+//             case 3:
 
-                document.write("ohhhh you like tenis, intresting !");
+//                 document.write("ohhhh you like tenis, intresting !");
 
-            break;
+//             break;
 
-            case 5:
+//             case 5:
 
-                document.write("ohhhh you like handball, intresting !");
+//                 document.write("ohhhh you like handball, intresting !");
             
-            break;
+//             break;
 
-            case 6:
+//             case 6:
 
-                document.write("ohhhh you like swimming, intresting !");
+//                 document.write("ohhhh you like swimming, intresting !");
 
-            break;
+//             break;
     
-        default:
+//         default:
 
 //             document.write(" <h3> please enter the right sport sir </h3> ");
 
@@ -138,6 +138,5 @@ for ( var a = 1 ; a <= 10 ; a++) {
 
     document.write( " NO : " + a + " <br> " );
 
-    }
+}
 
-    
