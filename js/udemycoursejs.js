@@ -33,9 +33,9 @@
 
         case 4:
 
-            document.write("today is thursday");
+//             document.write("today is thursday");
 
-        break;    
+//         break;    
         
         case 5:
             
@@ -92,9 +92,52 @@
     
         default:
 
-            document.write(" <h3> please enter the right sport sir </h3> ");
+//             document.write(" <h3> please enter the right sport sir </h3> ");
 
-            break;
+//             break;
+//     }
+
+
+// trying if & else if statement
+
+// var value = 555 ;
+
+// if ( value >= 600 ) {
+
+//     document.write(" this value is SMALL hehe");
+    
+// } 
+
+// else if ( value >= 700 ) {
+
+//     document.write(" this value is still SMALL oho oho oho oho");
+    
+// }
+
+// else if ( value >= 4000 ) {
+    
+//     document.write(" this value is BIG, finally ");
+
+// }
+// else {
+
+//     document.write(" well hi everyone i am a HUMANGOROUS number ")
+    
+// }
+
+
+// trying the back & continue statement
+
+for ( var a = 1 ; a <= 10 ; a++) {
+
+    if ( a == 4 ) {
+
+    document.write( " its just a number : " + a + " <br> " );
+
+    }
+
+    document.write( " NO : " + a + " <br> " );
+
     }
 
     
