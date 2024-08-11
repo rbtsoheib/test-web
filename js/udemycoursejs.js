@@ -133,10 +133,24 @@ for ( var a = 1 ; a <= 10 ; a++) {
     if ( a == 4 ) {
 
     document.write( " its just a number : " + a + " <br> " );
-
+        continue;
+        
     }
 
     document.write( " NO : " + a + " <br> " );
+
+}
+
+for ( var b = 2 ; b <= 15 ; b++) {
+
+    if (b == 12) {
+
+        document.write( "numberrrrr voco : " + b + " <br> ");
+        break
+
+    }
+
+    document.write( " NO : " + b + " <br> ");
 
 }
 
