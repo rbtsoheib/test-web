@@ -128,29 +128,46 @@
 
 // trying the back & continue statement
 
-for ( var a = 1 ; a <= 10 ; a++) {
+// for ( var a = 1 ; a <= 10 ; a++) {
 
-    if ( a == 4 ) {
+//     if ( a == 4 ) {
 
-    document.write( " its just a number : " + a + " <br> " );
-        continue;
+//     document.write( " its just a number : " + a + " <br> " );
+//         continue;
         
-    }
+//     }
 
-    document.write( " NO : " + a + " <br> " );
+//     document.write( " NO : " + a + " <br> " );
 
-}
+// }
 
-for ( var b = 2 ; b <= 15 ; b++) {
+// for ( var b = 2 ; b <= 15 ; b++) {
 
-    if (b == 12) {
+//     if (b == 12) {
 
-        document.write( "numberrrrr voco : " + b + " <br> ");
-        break
+//         document.write( "numberrrrr voco : " + b + " <br> ");
+//         break
 
-    }
+//     }
 
-    document.write( " NO : " + b + " <br> ");
+//     document.write( " NO : " + b + " <br> ");
 
-}
+// }
 
+// trying multiple data types
+
+var x = "hello wolrd <br>" ; 
+
+var y = 200 ; 
+
+var z = true ; 
+
+var X = [ "hello" , " bebe girl " , " heheeeeee "]; 
+
+document.write(x); 
+
+document.write(y); 
+
+document.write(z); 
+
+document.write(X);
