@@ -164,6 +164,7 @@ var z = true ;
 
 var X = [ "hello" , " bebe girl " , " heheeeeee "]; 
 
+
 document.write(x); 
 
 document.write(y); 
