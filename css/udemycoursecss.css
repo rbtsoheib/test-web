@@ -1,0 +1,30 @@
+h1{
+
+    color: aqua;
+    text-align: center;
+
+}
+
+a{
+
+    text-decoration: none;
+    color: brown;
+
+}
+
+.dropbtn{
+
+    background-color: #4CAF60;
+    color: white;
+    border: none;
+    padding: 20px;
+    font-size: 17px;
+    cursor: pointer;
+
+}
+
+.dropdown{
+
+
+    
+}
