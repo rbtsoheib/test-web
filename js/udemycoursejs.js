@@ -156,19 +156,102 @@
 
 // trying multiple data types
 
-var x = "hello wolrd <br>" ; 
+// var x = "hello wolrd <br>" ; 
 
-var y = 200 ; 
+// var y = 200 ; 
 
-var z = true ; 
+// var z = true ; 
 
-var X = [ "hello" , " bebe girl " , " heheeeeee "]; 
+// var X = [ "hello" , " bebe girl " , " heheeeeee "]; 
 
 
-document.write(x); 
+// document.write(x); 
 
-document.write(y); 
+// document.write(y + " "); 
 
-document.write(z); 
+// document.write(z + " "); 
 
-document.write(X);
+// document.write(X);
+
+// trying different assignment operations 
+
+
+//  var x = 533
+
+//  var y = 533
+
+//  x %= y
+
+//  document.write(x);
+
+
+// trying popup boxes, diffrent types 
+
+// alert(" hello bitches "); 
+
+//  var x = 300;
+
+//  var y = 450;
+ 
+ 
+//  if (x < y ) {
+
+//     alert("x is SMALL hehe")
+    
+// }
+// else {
+
+//     alert( " damn that x is BIG " )
+
+// }
+
+
+// var a = confirm(" are you a serbasi or a k7loch ? ")
+
+// if (a) {
+    
+//     alert( "welcome k7lochi(ti) to the website, enjoy your stay" )
+
+// } else {
+    
+//     alert("not even a k7loch(a) and you have the AUDACITY to be here ? you're a dead man(women) ")
+
+// }
+
+// var b = prompt(" pls enter your name ")
+
+// document.write("hello mr or mrs " + b + " " )
+
+
+// var value = prompt("put a value")
+
+// if (value >= 100 ) {
+//         document.write(" good number ");
+// } 
+// else if(value >= 80 ) {
+//         document.write("smaller but still on top")
+// }
+
+// else if(value >= 60) {
+//         document.write("now we are going very low")
+// }
+// else {
+//         document.write(" " + " sorry your value is MICROSCOPIC")
+// }
+
+// trying functions 
+
+// function ABCD() {
+//     document.write("sup <br>")
+// };
+
+// ABCD();
+
+// function App(first = "hello " , second = "world") {
+//     document.write(" i want to say " + first + second)
+// };
+// App();
+
+// tyring events 
+
+// didnt try hehe 
