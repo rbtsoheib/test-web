@@ -255,3 +255,85 @@
 // tyring events 
 
 // didnt try hehe 
+
+
+// let students = ["Yahia","Donia","Ali", 12 , true] ; 
+
+// let length = students.length ; 
+
+// for (let i = 0 ; i < length ; i++) {
+
+//     console.log[students[i]] ; 
+
+// }
+
+
+// let students = ["Yahia","Donia","Ali", 12 , true] ; 
+
+// let length = students.length ; 
+
+// for (let i = 0 ; i < length ; i++) {
+
+//     console.log[students[i]] ; 
+
+// }
+
+// let students = ["Yahia", "Donia", "Ali", 12, true] ; 
+
+
+// let newArr = students.map((student) => {
+
+//     return (
+// student + 1 
+//     )
+// })
+
+// console.log(newArr);
+
+// console.log(students);
+
+// students.push("ahmad") ;
+
+// console.log(students);
+
+
+// let ahmad = {name: "mohamed" , age: 23 , hobby : "swimming" }
+
+// console.log(ahmad.hobby); 
+
+// let students = [
+//     {firstname: "soheib" , secondname: "rabti" , hobby : "swimming"},
+//     {firstname: "tahar" , secondname: "bolekhal" , hobby : "boxing"},
+//     {firstname: "youcef" , secondname: "tibrad" , hobby : "music"}
+// ];
+
+
+// const slices = students.splice(0 , 1)
+// console.log(students)
+// console.log(slices)
+
+// const swimmings = students.filter((student) => { return ( student.hobby === "swimming")}) 
+// const youcefs = students.find((student) => { return ( student.firstname === "youcef")})
+// const Names = students.map((student) => { return( student.firstname) });
+
+// console.log(youcefs);
+
+
+// let students = [
+//     {firstname: "soheib" , secondname: "rabti" , hobby : "swimming"},
+//     {firstname: "tahar" , secondname: "bolekhal" , hobby : "boxing"},
+//     {firstname: "youcef" , secondname: "tibrad" , hobby : "music"}
+// ];
+
+// let studentsSecond = [...students , "this is soheib and i am AWSOME"];
+// console.log(studentsSecond)
+
+let person1 = [{
+    name : "soheib" , 
+    age : 16 ,
+    number : 12345, 
+}]
+
+let { name , age , number } = person1
+
+console.log(name , age , number);
