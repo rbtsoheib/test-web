@@ -328,12 +328,12 @@
 // let studentsSecond = [...students , "this is soheib and i am AWSOME"];
 // console.log(studentsSecond)
 
-let person1 = [{
-    name : "soheib" , 
-    age : 16 ,
-    number : 12345, 
-}]
+// let person1 = [{
+//     name : "soheib" , 
+//     age : 16 ,
+//     number : 12345, 
+// }]
 
-let { name , age , number } = person1
+// let { name , age , number } = person1
 
-console.log(name , age , number);
+// console.log(name , age , number);
